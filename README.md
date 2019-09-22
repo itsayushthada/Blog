@@ -6,10 +6,10 @@ A responsive [Material](https://material.io/) theme based on [Materialize.css](h
 
 * Google Analytics
 * Disqus
-* [GitHub project page](https://shawnteoh.github.io/matjek/projects/)
-* [Tags](https://shawnteoh.github.io/matjek/tags/) and [Categories](https://shawnteoh.github.io/matjek/categories/)
-* Modular CSS and JS includes ([example](https://github.com/ShawnTeoh/matjek/blob/gh-pages/projects.md/))
-* [Fancy "About" page](https://shawnteoh.github.io/matjek/about)
+* [GitHub project page](https://itsayushthada.github.io/matjek/projects/)
+* [Tags](https://itsayushthada.github.io/matjek/tags/) and [Categories](https://shawnteoh.github.io/matjek/categories/)
+* Modular CSS and JS includes ([example](https://github.com/itsayushthada/matjek/blob/gh-pages/projects.md/))
+* [Fancy "About" page](https://itsayushthada.github.io/matjek/about)
 
 ## Installation
 
@@ -45,7 +45,7 @@ tags: test test2
 
 ## Contributing
 
-Bug reports and pull requests are welcomed on GitHub at https://github.com/shawnteoh/matjek. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcomed on GitHub at https://github.com/itsayushthada/matjek. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
@@ -66,3 +66,4 @@ The theme is available as open source under the terms of the [GPL v3 License](ht
 ## References
 * https://github.com/DONGChuan/Yummy-Jekyll/
 * https://github.com/codinfox/codinfox-lanyon/
+* https://github.com/shawnteoh/matjek
