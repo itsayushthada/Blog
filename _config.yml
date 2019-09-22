@@ -16,8 +16,8 @@
 #
 title: My Blog
 description: > # this means to ignore newlines until "baseurl:"
-  This site is created for the purpose of sharing my knowledge about Mathematics, Machine Learning, Deep Learing, 
-  High Peformance Computing and Financial Markets & Investment Strategy.
+  This site is created for the purpose of sharing my knowledge about Mathematics, Machine Learning, Deep Learning, 
+  High Peformance Computing, and Financial Markets & Investment Strategies.
 baseurl: "/matjek"
 url: "https://itsayushthada.github.io"
 permalink: /:year/:month/:day/:title
