@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/matjek"
 url: "https://itsayushthada.github.io"
 #permalink: /:year/:month/:day/:title
-repository: itsayushthada/matjek
+repository: itsayushthada/Blog
 paginate: 5
 
 # MatJek specific configurations
